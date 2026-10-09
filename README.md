@@ -44,3 +44,4 @@ To transform raw retail transaction data into meaningful business insights that 
 
 ## Project Status
 Personal portfolio project completed using a sample retail dataset.
+![Power BI Dashboard](PowerBI_Dashboard1.png)
